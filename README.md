@@ -1,13 +1,5 @@
 # GigShield-AI - Protecting Food Delivery Partners
 
-## 👥 Team Details
-- Team Name: Zenith 
-- Institution: Amrita Vishwa Vidhyapeetham
-- Team Members:
-  - Dhara Lakshmi Kusumanchi
-  - Bommisetty Lakshmi Sowmya
-  - Yalakanti Tanvi
-
 ---
 
 ## 🎯 Our Persona: Food Delivery Partners (Zomato/Swiggy)
@@ -157,5 +149,27 @@ Final Premium = 50 × Risk Multiplier × (1 - Loyalty Discount)
 
 ---
 
+
+<img width="933" height="867" alt="Screenshot 2026-04-25 231358" src="https://github.com/user-attachments/assets/77ca2238-6e28-487f-b37f-7add7f16855c" />
+
+<img width="914" height="760" alt="Screenshot 2026-04-25 231446" src="https://github.com/user-attachments/assets/edb72b36-a5d5-41ae-88ff-3604b6ea6496" />
+
+<img width="879" height="737" alt="Screenshot 2026-04-25 231536" src="https://github.com/user-attachments/assets/789c4950-0c29-4b7a-9d4e-e88e43d64a0d" />
+
+<img width="893" height="823" alt="Screenshot 2026-04-25 231752" src="https://github.com/user-attachments/assets/f297efd8-8b55-4cdf-b290-0a798dc697c0" />
+
+<img width="1459" height="808" alt="Screenshot 2026-04-25 231849" src="https://github.com/user-attachments/assets/06127084-a121-42e3-afdf-e3ab9e3fcbbd" />
+
+<img width="1611" height="601" alt="Screenshot 2026-04-25 232033" src="https://github.com/user-attachments/assets/f3b80d6c-4a93-4f6c-b204-9da88821ebfc" />
+
+<img width="1296" height="588" alt="Screenshot 2026-04-25 232248" src="https://github.com/user-attachments/assets/1f01cc11-399f-4f17-8f3d-273cb2e2c99a" />
+
+<img width="1188" height="874" alt="Screenshot 2026-04-25 232158" src="https://github.com/user-attachments/assets/d50c5771-b6b3-4f68-acff-29bf35f90a10" />
+
+
 ## 🔗 GitHub Repository
-abcd
+https://github.com/dharalakshmi/GigShield-AI
+
+## 🔗 Live Demo
+https://drive.google.com/file/d/1oDJEI8ISQzk3eVzz0kcRJoqTRvJANw4Q/view?usp=sharing
+
